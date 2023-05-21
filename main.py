@@ -11,7 +11,7 @@ print("now =", now)
 # dd/mm/YY H:M:S
 dt_string = "data" + str(now.strftime("%d-%m-%Y-%H")) + ".txt"
 
-url = "https://secure.runescape.com/m=hiscore_oldschool/index_lite.ws?player=ComfyChest"
+url = "https://secure.runescape.com/m=hiscore_oldschool/index_lite.ws?player=ComfyIron"
 
 print(not os.path.isfile(dt_string))
 
