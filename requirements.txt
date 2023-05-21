@@ -1,0 +1,2 @@
+beatifulsoup4
+requests
